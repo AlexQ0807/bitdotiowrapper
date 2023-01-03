@@ -1,0 +1,3 @@
+requests_toolbelt       #https://pypi.org/project/requests-toolbelt/
+psycopg2                #https://pypi.org/project/psycopg2/
+bitdotio                #https://pypi.org/project/bitdotio/
